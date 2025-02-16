@@ -1,7 +1,6 @@
 <h1 align="center"> Here, you find Nicolau and Coffee :coffee: </h1>
 <h5 align="center" > <i>Harder, Better, Faster, Stronger</i>  🎵</h3>
-<br/><br/>
-
+<br/>
 
 :computer: Keep coding.
 
@@ -9,7 +8,7 @@
 
 :coffee: And don't forget the coffee
 
-<br/><br/><br/>
+<br/><br/>
 ---
 <div style="display: flex">
   <div>
