@@ -9,7 +9,7 @@
 
 :coffee: And don't forget the coffee
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 ---
 <div style="display: flex">
   <div>
