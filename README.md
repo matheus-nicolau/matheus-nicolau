@@ -1,4 +1,4 @@
-<h1 align="center"> Here, you find Nicolau and Coffee :coffee: </h1>
+<h1 align="center"> Hello there, i'm Nicolau. </h1>
 <h5 align="center" > <i>Harder, Better, Faster, Stronger</i>  🎵</h3>
 <br/>
 
@@ -6,7 +6,7 @@
 
 :dart: Have resilience.
 
-:coffee: And don't forget the coffee
+:coffee: And don't forget the coffee.
 
 <br/><br/>
 ---
