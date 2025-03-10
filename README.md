@@ -36,12 +36,8 @@
     <a href="https://github.com/matheus-nicolau">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-nicolau&show_icons=true&theme=vue-dark&locale=en" alt="matheusnicolau" />
 </div>
-
-
-
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-nicolau&show_icons=true&theme=dark&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="matheusnicolau" /> -->
 
-      
 <br/><br/>
 <div align="center">
   <hr/>
