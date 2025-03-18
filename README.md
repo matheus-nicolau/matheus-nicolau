@@ -27,8 +27,6 @@
 </div>
 <br/><br/>
 
-
-
 <!-- vue-dark gotham soft-green green-nur blux-->
 
 <div align="center">
