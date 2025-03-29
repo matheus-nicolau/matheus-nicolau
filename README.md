@@ -30,7 +30,7 @@
 <!-- vue-dark gotham soft-green green-nur blux-->
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=matheus-nicolau&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img  src="https://streak-stats.demolab.com?user=matheus-nicolau&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
     <a href="https://github.com/matheus-nicolau">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-nicolau&show_icons=true&theme=vue-dark&locale=en" alt="matheusnicolau" />
 </div>
