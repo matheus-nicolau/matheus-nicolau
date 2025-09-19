@@ -15,6 +15,7 @@
     <h3>My Skills ⚙️</h3>
       <img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="spring" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+      <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
       <img align="center" alt="postgres" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <img align="center" alt="postgres" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <img align="center" alt="mongodb" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
@@ -28,13 +29,12 @@
 <br/><br/>
 
 <!-- vue-dark gotham soft-green green-nur blux-->
-
-<div align="center">
-    <img  src="https://streak-stats.demolab.com?user=matheus-nicolau&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <div align="center">
     <a href="https://github.com/matheus-nicolau">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-nicolau&show_icons=true&theme=vue-dark&locale=en" alt="matheusnicolau" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-nicolau&show_icons=true&theme=vue-dark&layout=compact&locale=en" alt="matheusnicolau" />
 </div>
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-nicolau&show_icons=true&theme=dark&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="matheusnicolau" /> -->
+<!-- <img  src="https://streak-stats.demolab.com?user=matheus-nicolau&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-nicolau&show_icons=true&theme=dark&border_radius=10&locale=en&count_private=true&include_all_commits=true" alt="matheusnicolau" /> -->
 
 <br/><br/>
 <div align="center">
